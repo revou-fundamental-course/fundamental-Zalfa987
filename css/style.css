@@ -111,7 +111,7 @@ h1, h3, b {
 
 /* Bagian Profil */
 .profile-section {
-    background-image: url('/asset/bgcloud.jpg');
+    background-image: url('../asset/bgcloud.jpg');
     background-size: cover;
     background-position: center;
     padding: 20px;
@@ -160,7 +160,7 @@ h1, h3, b {
 
 /* Bagian Portofolio */
 .portfolio {
-    background-image: url('/asset/bgmario.png');
+    background-image: url('../asset/bgmario.png');
     display: flex;
     align-items: center;
     justify-content: center;
@@ -229,12 +229,12 @@ h3 {
 
 /* Background Kontainer Formulir */
 .form-container {
-    background-image: url('/asset/bgevening.jpg');
+    background-image: url('../asset/bgevening.jpg');
 }
 
 /* Background Kontainer Output */
 .output-container {
-    background-image: url('/asset/bgmorning.jpg');
+    background-image: url('../asset/bgmorning.jpg');
 }
 
 /* Judul Kontainer Formulir dan Output */
